@@ -2,7 +2,7 @@
 
 ---
 
-**Data Scientist | Business & Customer Analytics**
+**Data Analyst | Business & Customer Analytics**
 
 I turn complex, messy data into clear insights, actionable recommendations, and practical decision-support tools. My current focus is customer and user analytics — understanding customer health, retention, churn, and value, and turning that into recommendations businesses can act on.
 
@@ -52,7 +52,7 @@ A deployed application that scores customer risk two ways — a transparent rule
 
 I like understanding the bigger picture, finding root causes rather than symptoms, and turning messy systems into something that actually works the way it's supposed to. That mindset is what drew me to data in the first place.
 
-I'm deliberately expanding beyond analytics into machine learning, data engineering, MLOps, and AI engineering — building toward end-to-end capability, from raw data through to a deployed solution. Watch out!
+I'm deliberately expanding beyond analytics into machine learning, data engineering, MLOps, and AI engineering — building toward end-to-end capability, from raw data through to a deployed solution.
 
 ---
 
@@ -67,7 +67,7 @@ I'm currently completing an MSc in Islamic Economics alongside a BSc in Computer
 **Data Analyst/Data Scientist · Customer/Product Analytics Analyst · Business Analyst** roles.
 
 #### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ameenullah-olalere-414492242/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ameenullah-olalere-414492242/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameen.lere@gmail.com)
 
 > Understanding the data. Finding the root cause. Building what comes next.
